@@ -1,4 +1,4 @@
-
+<!--
 ##
 ### 2021
 - 증강현실과 메타버스를 활용한 스마트 시티투어버스
@@ -21,7 +21,7 @@
 ### 2020
 - 2020 DSU 창업아이디어 경진대회 / 알레르기가 있는 사람들을 위한 정보 카페앱 '알파카' / 대상
 
-<!--
+
 **minseong-dev/minseong-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
